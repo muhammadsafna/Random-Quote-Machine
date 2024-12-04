@@ -4,7 +4,7 @@
 
 To get started with the Random Quote Machine, follow these steps:
 
-1. Download the zip file of this repository.
+1. Download the zip file of this repository [Drive](https://drive.google.com/file/d/1YkEzh6HBsrVfWeO36QwUkzs_wwj8QZnl/view?usp=sharing)
 2. Extract the contents of the zip file to a folder of your choice.
 3. Open the folder in your terminal or code editor.
 4. Install the necessary dependencies using the following command:
